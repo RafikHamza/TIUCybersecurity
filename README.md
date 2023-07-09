@@ -2,20 +2,6 @@
 
 A Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on with free/paid resources, tools and concepts to excel.
 
-**It will cover but not limited to:**
-
-1. [Common Skills for Security Study Plan](common-skills-study-plan.md)
-2. [AWS Security Study Plan](aws-security-study-plan.md)
-3. [GCP Security Study Plan](gcp-security-study-plan.md)
-4. [Azure Security Study Plan](azure-security-study-plan.md)
-5. [DevSecOps Study Plan](devsecops-study-plan.md)
-6. [Docker Security Study Plan](docker-security-study-plan.md)
-7. [Kubernetes Security Study Plan](kubernetes-security-study-plan.md)
-8. [Web Penetration Testing Study Plan](web-pentest-study-plan.md)
-9. [Application Security Testing Plan](application-security-study-plan.md)
-10. [API Security Study Plan](api-security-study-plan.md)
-11. [Network Security Study Plan](network-security-study-plan.md)
-
 I got the idea of creating this repo after seeing [coding-interview-security](https://github.com/jwasham/coding-interview-university) as it echoes the journey that I went through to get into the full-time security role.
 
 >I created this study plan to help people who are looking for guidance and help to plan and prepare for a job specific skill sets.
@@ -113,20 +99,6 @@ You can start preparing for the job interview once you have solid knowledge as p
 * What did you learn in last 6 months and how was it relevant to your career/project?
 * Where do you see after 5 years working with this organization?
 
-## ToDo Updates
-- [x] Common Security Skills for Cybersecurity study plan
-- [x] AWS Security Study Plan
-- [x] Web Penetration Testing Study Plan
-- [x] Application Security Study Plan 
-- [ ] API Security Study Plan - *<span style="color:orange;">In Progress...</span>*
-- [ ] GCP Security Study Plan
-- [ ] DevSecOps Study Plan
-- [ ] Network Security Study Plan
-- [ ] Docker Security Study Plan
-- [ ] Kubernetes Security Study Plan
-- [ ] Azure Security Study Plan
 
 You can check [some common answers from here](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs)
 
-## Let's contribute and grow this repo together
-**Want to contribute? Please [fork the repo](https://github.com/jassics/security-study-plan/fork) and [send PR for review](https://github.com/jassics/security-study-plan/pulls)**
